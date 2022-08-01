@@ -1,6 +1,6 @@
 <h3 align="center">Hi! &nbsp;👋</h3>
 <h4 align="center">Welcome!</h4>
-<h4 align="center">I'm Yair, A software developer</h4>
+<h4 align="center">I'm Yair, A Software Developer</h4>
 
 <br/>
 
@@ -14,6 +14,10 @@
 </a>
 &nbsp;&nbsp;&nbsp;
 </p>
+
+<h4 align="center">"This Is Only a Foretaste of What Is To Come, and Only the Shadow of What Is Going To Be"</h4>
+<h4 align="center">(Alan Turing)</h4>
+
 
 ### &nbsp;💬&nbsp; About
 
@@ -65,6 +69,8 @@ Autodidact & Somewhat funny.
 
 ### &nbsp;🤙&nbsp; Contact
 
-The best way to contact me is by Email, at <a href="mailto:yairdaboul@gmail.com">yairdaboul@gmail.com</a>.
-
-Don't hesitate, Let's be friends! 🙂
+Don't you wanna know me? 
+Be a friend of mine,
+I'll share some wisdom with you.
+<br>
+<a href="mailto:yairdaboul@gmail.com">yairdaboul@gmail.com</a>.
