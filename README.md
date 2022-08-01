@@ -1,16 +1,68 @@
-### Hi there 👋
+<h3 align="center">Hi! &nbsp;👋</h3>
+<h4 align="center">Welcome!</h4>
+<h4 align="center">I'm Yair, A software developer</h4>
 
-<!--
-**yairdab/yairdab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+<p align="center">
+<a href="https://stackoverflow.com/users/19658198/yair-d">
+  <img alt="Stack Overflow" height="34" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/yair-daboul-337945246/">
+  <img alt="LinkedIn" height="34" src="https://img.icons8.com/color/50/000000/linkedin.png" />
+</a>
+&nbsp;&nbsp;&nbsp;
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### &nbsp;💬&nbsp; About
+
+An avid programmer, always looking to learn new things.
+Autodidact & Somewhat funny.
+
+<br>
+
+### &nbsp;🚀&nbsp; Technologies I'm experienced with
+
+<p>
+<img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/React-11cafb.svg?&style=for-the-badge&logo=react&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/node.js-026e00.svg?&style=for-the-badge&logo=node.js&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/Express-388888.svg?&style=for-the-badge&logo=Express&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/mongo-10aa50.svg?&style=for-the-badge&logo=mongodb&logoColor=white" height="24"/>
+<img src="	https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/HTML-red.svg?&style=for-the-badge&logo=html5&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/css-0397e0.svg?&style=for-the-badge&logo=css3&logoColor=white" height="24"/>
+</p>
+
+<br>
+
+### &nbsp;📚&nbsp; Technologies I'm Currently Learning
+
+<img src="https://img.shields.io/badge/Typesctipt-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/Redux-764ABC.svg?&style=for-the-badge&logo=redux&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/React%20Native-11cafb.svg?&style=for-the-badge&logo=react&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" height="24"/>
+
+<br>
+
+### &nbsp;🌠&nbsp; Technologies I Would like to learn next
+
+<p>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/python-blue.svg?&style=for-the-badge&logo=python&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/Flask-111111.svg?&style=for-the-badge&logo=flask&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/Vue-41b883.svg?&style=for-the-badge&logo=Vue.js&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/C%20Sharp-239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/.net-512BD4.svg?&style=for-the-badge&logo=.net&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/SASS-cf649a.svg?&style=for-the-badge&logo=sass&logoColor=white" height="24"/>
+</p>
+
+<br>
+
+### &nbsp;🤙&nbsp; Contact
+
+The best way to contact me is by Email, at <a href="mailto:yairdaboul@gmail.com">yairdaboul@gmail.com</a>.
+
+Don't hesitate, Let's be friends! 🙂
