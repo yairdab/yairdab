@@ -85,4 +85,4 @@ Don't you wanna know me?
 Be a friend of mine,
 I'll share some wisdom with you.
 <br>
-<a href="mailto:yairdaboul@gmail.com">yairdaboul@gmail.com</a>.
+<a href="mailto:yairdaboul@gmail.com">Send Me an Email Here</a>.
