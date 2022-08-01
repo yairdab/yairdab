@@ -78,6 +78,16 @@ Autodidact & Somewhat funny.
 
 <br>
 
+### &nbsp;🍜&nbsp; What's Cooking? 
+
+<p>
+New ReactWeatherApp 🌨️, built using OpenWeather API & GeoDB Cities API. Stay Tuned! <br>
+<img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/React-11cafb.svg?&style=for-the-badge&logo=react&logoColor=white" height="24"/>
+</p>
+
+<br>
+
 
 ### &nbsp;🤙&nbsp; Contact
 
