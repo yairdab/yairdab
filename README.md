@@ -39,10 +39,12 @@ Autodidact & Somewhat funny.
 
 ### &nbsp;📚&nbsp; Technologies I'm Currently Learning
 
+<p>
 <img src="https://img.shields.io/badge/Typesctipt-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white" height="24"/>
 <img src="https://img.shields.io/badge/Redux-764ABC.svg?&style=for-the-badge&logo=redux&logoColor=white" height="24"/>
 <img src="https://img.shields.io/badge/React%20Native-11cafb.svg?&style=for-the-badge&logo=react&logoColor=white" height="24"/>
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" height="24"/>
+</p>
 
 <br>
 
