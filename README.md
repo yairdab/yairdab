@@ -72,7 +72,9 @@ Autodidact & Somewhat funny.
 <p>
 <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" height="24"/>
 <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" height="24"/>
-<img src="https://img.shields.io/badge/Future%20Learn-000000?style=for-the-badge&logo=futurelearn&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/future%20learn-DE00A5?style=for-the-badge&logo=futurelearn&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" height="24"/>
+<img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" height="24"/>
 </p>
 
 <br>
